@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="JProgressBarAttr">
+        <attr name="JProgressColor" format="color" />
+        <attr name="JProgressDuration" format="integer" />
+        <attr name="JProgressSrc" format="reference" />
+        <attr name="JProgressRadius" format="integer" />
+        <attr name="JProgressPadding" format="integer" />
+    </declare-styleable>
+</resources>
